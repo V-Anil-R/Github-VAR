@@ -72,23 +72,7 @@ h1 {
     font-family: -apple-system, 'Open Sans', sans-serif;
 }
 
-.button {
-    background: #cd6326;
-    color: #fff;
-    border-radius: 3px;
-    display: block;
-    width: 160px;
-    height: 60px;
-    text-align: center;
-    font-size: 23px;
-    font-family: -apple-system, Roboto, sans-serif;
-    text-decoration: none;
-    line-height: 60px;
-    margin-top: 48px;
-    -webkit-border-radius: 3px;
-    -moz-border-radius: 3px;
-    -ms-border-radius: 3px;
-    -o-border-radius: 3px;
+
 }
 
 .frame {
