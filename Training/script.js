@@ -4,7 +4,6 @@ module.exports = function toReadable(number) {
         'seventeen', 'eighteen', 'nineteen'
     ];
 
-    if (number < 0) throw new Error('Negative numbers are not supported.');
 
     if (number === 0) return 'zero';
 
