@@ -75,23 +75,6 @@ h1 {
 
 }
 
-.frame {
-    border: 2px #CD6326 solid;
-    border-radius: 5px;
-    padding: 10px 25px 10px 30px;
-    font-family: -apple-system, Roboto, sans-serif;
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
-    -ms-border-radius: 5px;
-    -o-border-radius: 5px;
-}
-
-.central {
-    background: #e5e5e5;
-    padding: 0;
-    margin: 0;
-}
-
 .title H2 {
     font-size: 48px;
     text-align: center;
