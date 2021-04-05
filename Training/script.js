@@ -3,9 +3,7 @@ module.exports = function toReadable(number) {
         'ten', 'eleven', 'twelve', 'thirteen', 'fourteen', 'fifteen', 'sixteen',
         'seventeen', 'eighteen', 'nineteen'
     ];
-    var tens = ['', '', 'twenty', 'thirty', 'forty', 'fifty', 'sixty', 'seventy', 'eighty',
-        'ninety'
-    ];
+
 
     var numberString = number.toString();
 
